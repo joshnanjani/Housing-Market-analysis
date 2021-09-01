@@ -11,7 +11,7 @@ Observed that there are nearly 2000 zip codes where median rents have decrased b
 Predicted percentage growth (yearly) in home values with Zillow variables & following external data:-\
 County unemployment rate www.kaggle.com/jayrav13/unemployment-by-county-us   \
 State GDP data www.bea.gov   \
-30Y mortgage rates fred.stlouisfed.org/series/MORTGAGE30US    \
+30Y mortgage rates fred.stlouisfed.org/series/MORTGAGE30US    
 
 Modeling results:-\
 Linear Regression R2 of 38% and an RMSE of 6.5%\
