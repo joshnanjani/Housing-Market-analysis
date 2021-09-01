@@ -1,5 +1,5 @@
 # Housing_Market_analysis
-Downloaded median rents, home values information from zillow research data www.zillow.com/research/data/
+Downloaded median rents, home values information from zillow research data www.zillow.com/research/data/ \
 •	Plotted home values, price to rent ratios across years for 1/2/3 bedroom's separately.\
 •	Noticed that the price/rent ratio for 3 bedroom houses has always been historically lower relative to 1 bedroom.\
 •	Studied the relationship between growth in home values & preceding period price to rent ratios extensively.\
