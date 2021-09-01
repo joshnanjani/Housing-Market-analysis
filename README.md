@@ -5,7 +5,7 @@ Plotted home values, price to rent ratios across years for 1/2/3 bedroom's separ
 Noticed that the price/rent ratio for 3 bedroom houses has always been historically lower relative to 1 bedroom.\
 Studied the relationship between growth in home values & preceding period price to rent ratios extensively.\
 Interestingly, price/rent ratio doesn't necessarily correlate with size of the city. There are very large such as Chicago where home prices appear cheap relative to their rents.\
-Observed that there are nearly 2000 zip codes where median rents have decrased between 2010 and 2017 (in absolute terms).\
+Observed that there are nearly 2000 zip codes where median rents have decrased between 2010 and 2017 (in absolute terms).
 
 Predicted percentage growth (yearly) in home values with Zillow variables & following external data:-\
 County unemployment rate (www.kaggle.com/jayrav13/unemployment-by-county-us)
