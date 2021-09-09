@@ -16,4 +16,4 @@ Predicted percentage growth (yearly) in home values with Zillow variables & foll
 Modeling results:-\
 •	Linear Regression R2 of 38% and an RMSE of 6.5%\
 •	Random Forest R2 of 75% and an RMSE of 4.2%\
-•	Logistic Regression accuracy of 72% (Predicted >5% growth Y/N)
+•	Logistic Regression accuracy of 72% (Predicted >5% growth Y/N) 
